@@ -11,7 +11,7 @@ url: "https://robok3000.github.io" # the base hostname & protocol for your site,
 author:
   name: Pedro Torrealba Barra
   bio: Soy escritor y redactor de contenido en plataformas digitales. Aplico SEO a todo lo que escribo y me gusta usar emojis 🎩.
-  avatar: '/images/01.png'
+  avatar: '{{site.baseurl}}/images/01.png'
 
 social:
 - {icon: "ion-logo-twitter", label: Twitter, link: "https://twitter.com/robok"}
@@ -29,7 +29,7 @@ social:
 hero:
   hero__title: Hola, Soy Pedro! Redactor Creativo Digital
   hero__description: Soy escritor y redactor de contenido en plataformas digitales. Aplico SEO a todo lo que escribo y me gusta usar emojis 🎩.
-  hero__image: '/images/01.png'
+  hero__image: '{{site.baseurl}}/images/01.png'
 
 
 #-------------------------------
