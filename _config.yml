@@ -4,7 +4,7 @@ title: Pedro Torrealba B.
 logo: # You can add own logo. For example '/images/logo.png'.
 description: Este es mi portafolio de artículos y notas de blogs que he escrito en los últimos años.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://joseph-jekyll.netlify.app" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://robok3000.github.io/lawebdelpiter/" # the base hostname & protocol for your site, e.g. http://example.com
 
 #-------------------------------
 # Author Settings
