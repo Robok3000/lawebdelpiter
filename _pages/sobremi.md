@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sobre Mi
-permalink: /about/
+permalink: /Sobre mi/
 image: '/images/pedro.jpg'
 ---
 

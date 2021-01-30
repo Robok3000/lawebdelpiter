@@ -4,7 +4,7 @@ title:  Mi aporte a la música independiente chilena 🇨🇱
 description: Verynoise.com es un blog donde soy administrador y redactor, donde entrevisto a artistas y bandas musicales independientes para que muestren su lado más humano y expliquen en lo que están.
 date:   2018-11-11 15:01:35 +0300
 image:  '/images/verynoise.jpg'
-tags:   [lifestyle, rest, notes]
+tags:   [artículo, música, notas]
 ---
 
 # ¿Qué es Verinoise?

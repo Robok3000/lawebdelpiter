@@ -4,7 +4,7 @@ title: Algunos escritos que hice sobre Bitcoin 🚀
 description: Bitcoin es una tecnología a la que le he seguido el paso desde el 2015 y eso me llevó a trabajar en Buda.com donde escribí algunos textos para el blog.
 date:   2018-11-10 15:01:35 +0300
 image:  '/images/bitcoin.jpg'
-tags:   [technology, workflow, story]
+tags:   [artículo, educación, finanzas personales]
 ---
 
 En algún momento me tocó escribir sobre Bitcoin, un tema que en ese momento estaba agarrando vuelo, luego de la estrepitosa caída del 2017 y de comienzo del 2020, cuando la pandemia hizo su aparición en todos los países del mundo.

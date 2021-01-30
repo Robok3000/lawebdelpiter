@@ -4,7 +4,7 @@ title:  Soy la persona detrás de La Legal 🔪
 description: Llevo 10 años escribiendo en LaLegal.news el diario de noticias parodia número uno de Chile y el mundo. Soy algo así como el Director y Redactor. Además soy el responsable de que las personas ridiculicen a los medios de comunicación tradicionales, comparando su contenido con el de La Legal, usando el hashtag NoEsLaLegal.
 date:   2018-11-14 15:01:35 +0300
 image:  '/images/lalegal.jpg'
-tags:   [workflow, hobby, study]
+tags:   [artículo, biografía, humor]
 ---
 
 # ¿Qué es La Legal?
