@@ -1,7 +1,7 @@
 #-------------------------------
 # General Site Settings
 title: Pedro Torrealba B.
-logo: # You can add own logo. For example '/images/logo.png'.
+logo: '/images/logo.png'
 description: Este es mi portafolio de artículos y notas de blogs que he escrito en los últimos años.
 baseurl: "/lawebdelpiter" # the subpath of your site, e.g. /blog
 url: "https://robok3000.github.io" # the base hostname & protocol for your site, e.g. http://example.com
@@ -11,7 +11,7 @@ url: "https://robok3000.github.io" # the base hostname & protocol for your site,
 author:
   name: Pedro Torrealba Barra
   bio: Soy escritor y redactor de contenido en plataformas digitales. Aplico SEO a todo lo que escribo y me gusta usar emojis 🎩.
-  avatar: 'https://robok3000.github.io/lawebdelpiter/images/01.png'
+  avatar: '/images/02.png'
 
 social:
 - {icon: "ion-logo-twitter", label: Twitter, link: "https://twitter.com/robok"}
