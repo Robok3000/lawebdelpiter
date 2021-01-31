@@ -3,8 +3,8 @@
 title: Pedro Torrealba B.
 logo: '/images/logo.png'
 description: Este es mi portafolio de artículos y notas de blogs que he escrito en los últimos años.
-baseurl: "/lawebdelpiter" # the subpath of your site, e.g. /blog
-url: "https://robok3000.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://www.pedrotorrealba.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 #-------------------------------
 # Author Settings
