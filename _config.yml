@@ -1,7 +1,7 @@
 #-------------------------------
 # General Site Settings
-title: Pedro Torrealba Barra.
-logo: '/images/logo.png'
+title: Pedro Torrealba Barra
+logo: ''
 description: Este es mi portafolio de artículos y notas de blogs que he escrito en los últimos años.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://www.pedrotorrealba.com" # the base hostname & protocol for your site, e.g. http://example.com
