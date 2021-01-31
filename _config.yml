@@ -1,6 +1,6 @@
 #-------------------------------
 # General Site Settings
-title: Pedro Torrealba B.
+title: Pedro Torrealba Barra.
 logo: '/images/logo.png'
 description: Este es mi portafolio de artículos y notas de blogs que he escrito en los últimos años.
 baseurl: "/" # the subpath of your site, e.g. /blog
@@ -14,12 +14,11 @@ author:
   avatar: '/images/02.png'
 
 social:
-- {icon: "ion-logo-twitter", label: Twitter, link: "https://twitter.com/robok"}
-- {icon: "ion-logo-facebook", label: Facebook, link: "https://facebook.com"}
-- {icon: "ion-logo-pinterest", label: Pinterest, link: "https://pinterest.com"}
-- {icon: "ion-logo-dribbble", label: Dribbble, link: "https://dribbble.com"}
-- {icon: "ion-logo-instagram", label: Instagram, link: "https://instagram.com"}
-- {icon: "ion ion-logo-vimeo", label: Vimeo, link: "https://vimeo.com"}
+- {icon: "ion-logo-linkedin", label: Linkedin, link: "https://www.linkedin.com/in/torrealba-p/"}
+- {icon: "ion-logo-github", label: Github, link: "https://github.com/Robok3000"}
+- {icon: "ion-logo-bitcoin", label: Bitcoin, link: "https://www.tiocripto.com/"}
+- {icon: "ion-logo-volume-high", label: Volume-High, link: "https://www.verynoise.com/"}
+- {icon: "ion-logo-list-box", label: List-box, link: "https://www.texter.cl/"}
 
 # Example of adding a new link to the author section and footer - {icon: "ion-logo-github", label: Github, link: "https://github.com"}
 # Other icons can be found at https://ionicons.com/v4/
@@ -28,7 +27,7 @@ social:
 # Hero Settings
 hero:
   hero__title: Hola, Soy Pedro! Redactor Creativo Digital
-  hero__description: Soy escritor y redactor de contenido en plataformas digitales. Aplico SEO a todo lo que escribo y me gusta usar emojis 🎩.
+  hero__description: Me especializo en contenido para plataformas digitales. Aplico SEO a todo lo que escribo y me gusta usar emojis 🎩.
   hero__image: 'https://robok3000.github.io/lawebdelpiter/images/01.webp'
 
 
@@ -36,7 +35,7 @@ hero:
 # Newsletter (_includes/footer-widgets/widget-subscribe.html)
 mailchimp: true # To enable the mailchimp form, use the value 'true'. To disable the form, use the value 'false' or leave the field blank.
 mailchimp__title: Contáctame # Add your Title
-mailchimp__text: Te interesaría que escriba algo para ti? Entonces, conversemos y veamos cómo poner en palabras tus ideas. # Add your description.
+mailchimp__text: Subscribe to our newsletter and we’ll send you the emails of latest posts. # Add your description.
 mailchimp__identifier: # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
 mailchimp__button__text: Join # Add your button text
 
