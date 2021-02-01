@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sobre Mi
+title: Sobre Mí
 permalink: /Sobre mi/
 image: '/images/pedro.jpg'
 ---
