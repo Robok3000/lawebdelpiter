@@ -25,7 +25,7 @@ social:
 # Hero Settings
 hero:
   hero__title: Hola, Soy Pedro! Redactor Creativo Digital
-  hero__description: Me especializo en contenido para plataformas digitales. Aplico SEO a todo lo que escribo y me gusta usar emojis 🎩. Revisa algunos ejemplos de arículos que he escrito aquí 👇👇👇
+  hero__description: Me especializo en contenido para plataformas digitales. Aplico SEO a todo lo que escribo y me gusta usar emojis 🎩. Revisa algunos ejemplos de artículos que he escrito aquí 👇👇👇
   hero__image: 'https://robok3000.github.io/lawebdelpiter/images/01.webp'
 
 
@@ -42,7 +42,7 @@ mailchimp__button__text: Join # Add your button text
 # Contact Settings
 contact:
   email: torrealba.pedro@gmail.com # Add your email for contact form
-  description: Te interesaría que escriba algo para ti? Entonces, conversemos y veamos cómo poner en palabras tus ideas. # Add a description of your form
+  description: Te interesaría que escriba algo para ti? Conversemos y veamos cómo poner en palabras tus ideas. # Add a description of your form
 
 # NOTE
 # Joseph comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want.
