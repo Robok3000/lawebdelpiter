@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  ¿Por qué es tan difícil explicar Bitcoin?
-description: La pandemia trajo consigo un hecho inevitable el trabajo remoto. ¿Cómo te estás preparando para afrontar la digitalización del mundo laboral? Acá te contamos cómo Rombus Global se está preparando para enfrentar la post pandemia.
+description: ¿Por qué las personas aún no le toman el peso a lo importante que es Bitcoin para la construcción de una nueva sociedad? ¿Será porque es difícil de explicar y hacer tangible esta tecnología que a su vez, es una revolución en todos los sentidos?
 date:   2018-11-14 15:01:35 +0300
 image:  '/images/postpandemia.jpg'
 tags:   [artículo, educación financiera, estudio]
