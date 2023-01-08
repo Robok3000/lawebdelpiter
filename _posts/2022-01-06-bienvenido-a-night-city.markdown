@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  Bienvenido a Night City
-description: Tram es la nueva canción de Seeders con la que honran la fuerza de voluntad de los millones de personas que viajan incontables horas para llegar a su puesto de trabajo.
-date:   2018-11-14 15:01:35 +0300
+description: Somos las MENTES ELECTRÓNICAS. Un grupo de mentes libres y  rebeldes. Vivimos en el Ciberespacio, estamos en todos lados, no conocemos límites. Éste es nuestro manifiesto. El manifiesto de los Cyberpunks.
+date:   2022-11-02 15:01:35 +0300
 image:  '/images/nightcity.jpg'
 tags:   [artículo, nota, cyberpunk]
 ---
@@ -65,3 +65,5 @@ Déjame darte un ejemplo concreto:  las raíces de Bitcoin podríamos rastrearla
 Así es como la filosofía cyberpunk se ha mantenido firme en la lucha contra los sistemas cerrados y para proteger los derechos y la privacidad de las personas.
 
 Los invito a leer el manifiesto completo, a seguir al conejo blanco y encontrar tu propia Night City.
+
+Artículo publicado en [Fintualist](https://fintualist.com/chile/columnas/bienvenido-a-night-city-la-capital-del-cyberpunk/)
