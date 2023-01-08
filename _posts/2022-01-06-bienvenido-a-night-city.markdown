@@ -21,15 +21,17 @@ Ya me devoré la serie y aún estoy acabando sus misiones del juego, ya que es u
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JtqIas3bYhg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+
 Desde que salí del colegio por allá en 1999 que me entusiasmé con el mundo cyberpunk, que sin saberlo ya había experimentado antes viendo Blade Runner, Robocop, Matrix, Akira, Ghost in the Shell o la mítica serie Max Headroom.
 
 Se podría decir que mi primer acercamiento real con el Cyberpunk fue cuando cursaba la enseñanza media. En ese entonces los computadores estaban recién volviéndose populares e Internet se estaba convirtiendo en la gran red que es ahora. Mi primer acercamiento con internet fue cuando descubrí el Hiperterminal en mi IBM Aptiva. Sin saber qué era, enchufé la línea del teléfono al modem del computador y digité una clave de acceso que alguien me había escrito en un diskette. Un sonido que jamás olvidaré salió del computador, un sonido que había olvidado y que me llevaba a mi infancia cuando cargaba un juego en mi atari. Un sonido que fue la llave para entrar a esta nueva realidad.
 
-![tren](![tren](https://lh6.googleusercontent.com/Wmaor3kpZtjEluIJqV7A6-ZTucffBsWzMSOsCnwGpKxdxlgmozBS8eLyGEUZFeCUQv114GKRkOwZpuODyefr_Gn_7tytIxeLdRCQ18cs_E_IyTZ46SK1EBPgiZYW5iOwCThJwoTOmhJ0j5PT60KGo_U2sfI4DssNInv8CpK4dHgx1MmfLBibKTICBA)
+![tren](https://lh6.googleusercontent.com/Wmaor3kpZtjEluIJqV7A6-ZTucffBsWzMSOsCnwGpKxdxlgmozBS8eLyGEUZFeCUQv114GKRkOwZpuODyefr_Gn_7tytIxeLdRCQ18cs_E_IyTZ46SK1EBPgiZYW5iOwCThJwoTOmhJ0j5PT60KGo_U2sfI4DssNInv8CpK4dHgx1MmfLBibKTICBA)
 
 Esta fue la puerta que se abrió para que me convirtiera en el nativo digital que soy, algo así como un Cyberpunk.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gsNaR6FRuO0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 ### Pero, ¿de dónde viene todo este mundo del Cyberpunk?
 
