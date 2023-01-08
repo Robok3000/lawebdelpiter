@@ -10,7 +10,7 @@ url: "https://www.pedrotorrealba.com" # the base hostname & protocol for your si
 # Author Settings
 author:
   name: Pedro Torrealba Barra
-  bio: Si quieres que escriba algo para ti, envíame un correo a torrealba.pedro@gmail.com 🤓
+  bio: Si quieres que escriba algo para ti, envíame un correo a pedro@trinomiodigital.com 🤓
   avatar: '/images/02.png'
 
 social:
@@ -25,7 +25,7 @@ social:
 # Hero Settings
 hero:
   hero__title: Hola, Soy Pedro! Redactor Creativo Digital
-  hero__description: Me especializo en contenido para plataformas digitales. Aplico SEO a todo lo que escribo y me gusta usar emojis 🎩. Revisa algunos de mis artículos, aquí 👇👇👇
+  hero__description: Me especializo en contenido para plataformas digitales. Aplico SEO a todo lo que escribo y me gusta usar emojis 🎩. Revisa algunos de mis artículos aquí 👇👇👇
   hero__image: 'https://robok3000.github.io/lawebdelpiter/images/01.webp'
 
 
